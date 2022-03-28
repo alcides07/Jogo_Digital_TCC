@@ -5,3 +5,5 @@ Alcides Tiago Medeiros Dantas\
 Isaac Luis de Lima e Silva\
 Nathan Galdêncio Leocádio\
 Wallace Gabriel de Oliveira Araújo
+
+Link para o vídeo da execução do jogo: https://drive.google.com/file/d/1E11VJsBhsAdHyzNJTJ13M0eGaQ6SJAFi/view?usp=sharing 
